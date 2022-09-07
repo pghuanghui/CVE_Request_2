@@ -18,11 +18,11 @@ WAVLINK WN579 X3
 
 The interface can be accessed without authorization, and can operate WiFi at the same time.
 
-![image-20220907102646723](WAVLINK WN579X3_extender_set_ssid.assets/image-20220907102646723.png)
+![image-20220907102646723](https://github.com/pghuanghui/CVE_Request_2/raw/main/WN579X3/WAVLINK%20WN579X3_extender_set_ssid.assets/image-20220907102646723.png)
 
 ## 0x04 PoC verification
 
-![image-20220907102756610](WAVLINK WN579X3_extender_set_ssid.assets/image-20220907102756610.png)
+![image-20220907102756610](https://github.com/pghuanghui/CVE_Request_2/raw/main/WN579X3/WAVLINK%20WN579X3_extender_set_ssid.assets/image-20220907102756610.png)
 
 ## 0x05 Acknowledgement
 
