@@ -1,6 +1,6 @@
 ## 0x01 Vulnerability description
 
-an issue was discovered on WAVLINK WN579 X3 devices,Firmware package version M79X3.V5030.201201. The login.cgi does not filter the parameter keys, resulting in command injection in the page/wifi_base.shtml.
+an issue was discovered on WAVLINK WN579 X3 devices,Firmware package version M79X3.V5030.201201. The login.cgi does not filter the parameter keys, resulting in command injection in the page/Ping.shtml.
 
 ## 0x02 Affected version
 
